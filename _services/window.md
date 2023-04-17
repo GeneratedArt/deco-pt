@@ -28,6 +28,8 @@ Our promotion services offer exposure for generative art through various channel
 
 By targeting these diverse groups, our promotion services aim to raise awareness and generate interest in generative art, creating opportunities for artists and fostering appreciation for this innovative art form.
 
+![Window art shading](/images/illustrations/window-art.png)
+
 # Articles
 
 [Expanding Human Perception through Generative Art and Technology](https://medium.com/generatedart/expanding-human-perception-through-generative-art-and-technology-dd0338f9787d)
