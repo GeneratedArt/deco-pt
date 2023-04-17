@@ -6,7 +6,7 @@ weight: 5
 
 We believe in the power of generative art to create meaningful impact in the world. That's why we offer a range of services to help artists and organizations raise capital for different causes through the creation and sale of generative art.
 
-![Fund raising](/images/illustrations/fund-raising.png)
+![Flooring](/images/illustrations/flooring.png)
 
 # Introduction
 
