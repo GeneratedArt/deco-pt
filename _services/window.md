@@ -6,7 +6,7 @@ weight: 7
 
 We offer a unique platform for venues and generative artists to showcase their work to a global audience, helping them to gain exposure and reach new potential buyers.
 
-![Promotion](/images/illustrations/promotion.png)
+![Window spaghetti](/images/illustrations/window-spaghetti.png)
 
 # Overview
 
