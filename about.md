@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-GeneratedArt is a creative platform that specializes in generative art exhibitions and offers a wide range of computational services for artists, organizations, and anyone looking to explore the world of generative art.
+GeneratedArt is an innovative platform dedicated to the realm of generative art. Our driving purpose is to breathe life into the spaces we occupy by harnessing the power of algorithmic art, drawing inspiration from nature and abstract data.
 
 ![About](/images/illustrations/about.png)
 
