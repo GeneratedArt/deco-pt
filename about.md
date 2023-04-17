@@ -7,7 +7,7 @@ bodyClass: page-about
 
 GeneratedArt is an innovative platform dedicated to the realm of generative art. Our driving purpose is to breathe life into the spaces we occupy by harnessing the power of algorithmic art, drawing inspiration from nature and abstract data.
 
-![About](/images/illustrations/public-square.png)
+![About](/images/illustrations/goal.png)
 
 # Our mission
 
