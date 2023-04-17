@@ -6,7 +6,7 @@ weight: 3
 
 We offer a range of services for printing 2D and 3D generative art. With our advanced printing technology and expertise, we can produce high-quality prints of your favorite generative art pieces, whether you're looking for a stunning 2D print for your home or office, or a unique 3D sculpture for a special event or exhibition.
 
-![Printing](/images/printing.png)
+![Window print](/images/window-print.png)
 
 Our team of experienced professionals works closely with each client to ensure that their vision is realized in the final product. Contact us today to learn more about our printing services and how we can help bring your generative art to life.
 
