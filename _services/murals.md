@@ -6,7 +6,7 @@ weight: 7
 
 Tokenization allows for ownership, fractional ownership and trade of generative art, unlocking new possibilities for both artists and collectors. This innovative technology also enables the traceability of funds from donors and the usage of organizations and communities for important causes.
 
-![Tokenization](/images/illustrations/tokenization.png)
+![Murals](/images/illustrations/murals.png)
 
 # Introduction
 
