@@ -6,7 +6,7 @@ weight: 1
 
 Dedicated to showcasing the best and most innovative works of generative art from around the world, our curation service for generative art exhibitions is committed to promoting and advancing the field of generative art.
 
-![Digital display](/images/digital-display.png)
+![Digital display](/images/illustrations/digital-display.png)
 
 Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for creativity, technical proficiency, and artistic vision.
 
