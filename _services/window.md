@@ -24,10 +24,8 @@ Transform your space with our innovative generative window art services, combini
 
 # Articles
 
-[Expanding Human Perception through Generative Art and Technology](https://medium.com/generatedart/expanding-human-perception-through-generative-art-and-technology-dd0338f9787d)
+[Generative Window Art: Transforming Spaces with Algorithmic Designs](https://medium.com/@guillaumelauzier/generative-window-art-transforming-spaces-with-algorithmic-designs-ccceadc7d777)
 
-[Generative art and the blurred lines of authenticity](https://medium.com/generatedart/generative-art-and-the-blurred-lines-of-authenticity-80d5417d8c03)
 
-[Challenging Traditional Notions of Art and Artist with Generative Art](https://medium.com/generatedart/challenging-traditional-notions-of-art-and-artist-with-generative-art-193811e3d406)
 
 
