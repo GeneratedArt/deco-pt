@@ -4,8 +4,10 @@ layout: contact
 description: Contact
 ---
 
-Thank you for wanting to join us on our generative art journey! If you have any general enquiries or questions, please do not hesitate to contact us via email or form bellow. We would be happy to hear from you and assist in any way we can.
+We're delighted to have you join us on our generative art journey! If you have any general inquiries or questions, please don't hesitate to contact us via email or the form below. We're here to help in any way possible.
 
-For those interested in hosting generative art exhibitions in their venue, we welcome you to submit your application to us. Our team will review all submissions and get in touch with you as soon as possible.
+If you're interested in our decoration services, feel free to request a quote, and our team will promptly review it and get back to you. We also encourage you to check out our catalogue page to get a clear idea of what we offer.
 
-If you are an artist interested in being part of our upcoming exhibitions, we invite you to send us your application. We are always excited to discover new talent and showcase innovative works in the field of generative art.
+For those looking to host generative art exhibitions at their venue, submit your application, and our team will review and respond as soon as possible.
+
+Artists eager to be part of our upcoming exhibitions are invited to apply. We're always excited to discover new talent and showcase innovative generative art pieces.
