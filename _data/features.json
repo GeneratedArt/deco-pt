@@ -1,7 +1,7 @@
 [
   {
     "title": "Public space",
-    "description": "Generative art exhibitions create a mutually beneficial partnership between exhibition service providers and venues, with the venue receiving a commission on artwork sales and promotion on the GeneratedArt platform.",
+    "description": "Generative art in public spaces enhances urban landscapes with dynamic, interactive experiences, fostering community and promoting sustainability. This fusion of technology and artistic expression enriches city culture and connects diverse inhabitants.",
     "image": {
       "url": "images/illustrations/public-space.png",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Private space",
-    "description": "Exhibiting generative art in different locations offers increased exposure, diverse feedback, networking opportunities, cultural exchange, and professional development for artists.",
+    "description": "Integrating natural aesthetics into private spaces by creating soothing and inspiring surroundings. This combination fosters a sense of balance, encouraging productivity in workspaces and offering peaceful retreats in residential areas.",
     "image": {
       "url": "images/illustrations/art-installation.png",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Events",
-    "description": "Discovering generative art exhibitions in different spaces throughout a city offers collectors a unique experience, access to exclusive artwork, generative art tours in new places, and potential investment opportunities.",
+    "description": "Incorporating interactive and dynamic decorative elements enhances the overall experience by captivating attendees and stimulating engagement. These visually striking components create immersive atmospheres, forging memorable impressions and fostering connections among participants.",
     "image": {
       "url": "images/illustrations/events.png",
       "width": 80,
