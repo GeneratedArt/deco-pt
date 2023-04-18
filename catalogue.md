@@ -1,6 +1,6 @@
 
 ---
-title: Gallery
+title: Catalogue
 layout: demo
 description: demo
 bodyClass: page-demo
