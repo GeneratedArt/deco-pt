@@ -6,7 +6,7 @@ weight: 2
 
 Our platform hosts nodes for various payment channels, including VISA/MasterCard, Bitcoin using the Lightning network, Ethereum using the Raiden and Polygon network, Cardano, Tezos and Solana.
 
-![Payments](/images/illustrations/payments.png)
+![Rental](/images/illustrations/lumi-window.png)
 
 With our secure and reliable infrastructure, we provide lightning-fast payment solutions for our clients, enabling them to transact with ease and convenience. Our commitment to using the latest technology ensures that our nodes are always up-to-date and fully optimized for performance, security, and scalability.
 
