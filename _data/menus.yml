@@ -8,8 +8,8 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 3
-  - name: "Demo"
-    url: "/demo/"
+  - name: "Catalogue"
+    url: "/catalogue/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
