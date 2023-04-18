@@ -4,17 +4,19 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-We believe in the power of generative art to create meaningful impact in the world. That's why we offer a range of services to help artists and organizations raise capital for different causes through the creation and sale of generative art.
+Integrating algorithm-driven patterns and designs into flooring offers several benefits to spaces. The distinctive and dynamic visual element enhances the overall aesthetic appeal, turning floors into focal points that spark conversation and interaction.
 
 ![Flooring](/images/illustrations/flooring.png)
 
 # Introduction
 
-Our fundraising services focus on supporting organizations’ philanthropic causes through generative art exhibitions, emphasizing the importance of securing funding by leveraging real-world data to demonstrate demand. We understand the power of art to inspire and engage people, making it an effective medium for raising awareness and funds for a wide range of causes.
+Elevate your space with our unique generative art flooring service, featuring the innovative epoxy flooring stenciling technique. This approach utilizes vinyl or plastic stencils to create striking designs, logos, and graphics, transforming ordinary floors into visually captivating surfaces.
 
-Our platform offers a service to help generative artists navigate the world of grants and investments to support their work. Through our guidance, artists can access a range of opportunities from government organizations, private foundations, and venture capital firms. By incorporating real-world data into generative art exhibitions, we create unique and immersive experiences that not only captivate audiences but also provide compelling evidence of the need for support.
+Our process involves masking off specific areas of the floor with a stencil, followed by the application of epoxy paint to form the desired pattern. Once the epoxy has cured, we remove the stencil, revealing a stunning and durable design. Epoxy flooring stenciling offers precise control over design placement, colors, and textures, making it a versatile solution for various flooring surfaces, including concrete, wood, and tile.
 
-Our tailored fundraising strategies combine the creative potential of generative art with data-driven insights to maximize the impact of philanthropic initiatives and help organizations achieve their goals in making a positive difference. By utilizing our services, generative artists can access funding and resources to develop their work and bring it to market while also making a meaningful impact through their art.
+To ensure the highest quality results, we emphasize the importance of proper surface preparation and application techniques. Our team meticulously prepares each surface, ensuring it is clean, dry, and free of debris for optimal stencil adhesion. We then apply the epoxy paint evenly and allow it to cure for the recommended time.
+
+Experience the transformative power of our generative art flooring service and let our epoxy flooring stenciling expertise bring your vision to life.
 
 ## Organizations
 
@@ -46,16 +48,18 @@ By leveraging the power of data, generative art exhibitions can create immersive
 
 ## Scope of Services:
 
-1. Data-driven visualization based on research data: We create engaging generative art exhibitions that incorporate research data, transforming complex information into visually compelling narratives. By presenting data in an accessible and captivating format, we help organizations convey the importance of their cause and demonstrate the need for support. Our team collaborates with organizations to understand their research data, identify key insights, and develop custom generative art installations that effectively communicate their message to a diverse audience.
+Our scope of services includes:
 
-2. Payment protocols: To ensure seamless and secure transactions during fundraising events, we offer a range of payment protocols that cater to the preferences of donors and attendees. Our payment solutions include traditional methods such as credit card processing, as well as innovative options like cryptocurrency payments and QR code integration. We work closely with organizations to determine the most suitable payment options and implement the necessary infrastructure to facilitate smooth, secure, and efficient transactions throughout the event.
-
-3. Fundraising event planning and management: Our team of experienced event planners and managers work closely with organizations to design, plan, and execute successful fundraising events centered around generative art exhibitions. We take care of every aspect of event organization, from securing a suitable venue and promoting the event to managing logistics and coordinating with suppliers. Our attention to detail and commitment to excellence ensure that each fundraising event we manage is a memorable and impactful experience for attendees, helping organizations to maximize their fundraising potential and achieve their philanthropic goals.
-
-4. Assistance with navigating grant and investment application processes: We provide guidance and support to generative artists and creative coders in accessing grants and investments that can support their development projects. Our team helps navigate the application process and identify suitable funding opportunities from government organizations, private foundations, and venture capital firms to maximize the chances of success. We also offer advice on meeting specific criteria or limitations and provide resources for artists to develop compelling proposals. 
+- Design Consultation: We collaborate with you to understand your vision, preferences, and requirements, ensuring the final design aligns with your expectations and enhances your space.
+- Surface Preparation: Our team meticulously prepares the flooring surface, guaranteeing it is clean, dry, and free of debris for optimal stencil adhesion and a flawless outcome.
+- Custom Stencil Creation: We design and produce high-quality vinyl or plastic stencils tailored to your chosen design, logo, or graphic, providing precise control over design placement, colors, and textures.
+- Epoxy Paint Application: Our skilled professionals apply epoxy paint evenly over the stencil, adhering to best practices and recommended curing times to ensure stunning and durable results.
+- Stencil Removal and Cleanup: Once the epoxy has cured, we carefully remove the stencil, revealing the beautiful design underneath, and ensure the space is left clean and ready for use.
+- Post-Installation Inspection: We perform a thorough inspection of the completed flooring to verify its quality, durability, and adherence to your design specifications.
+- Ongoing Support and Maintenance: To keep your generative art flooring in top condition, we offer continued support and maintenance services, addressing any concerns and providing guidance on proper care.
 
 # Articles
 
-[The Power of Generative Art for Philanthropy](https://medium.com/generatedart/the-power-of-generative-art-for-philanthropy-953d655dda08)
+[Transform Your Space with Generative Art Flooring Using Epoxy Paint](https://medium.com/generatedart/transform-your-space-with-generative-art-flooring-using-epoxy-paint-d596c395094c)
 
-[Impact of Data-Driven Art on Scientific Discovery and Innovation](https://medium.com/generatedart/impact-of-data-driven-art-on-scientific-discovery-and-innovation-c60f126aeb65)
+
