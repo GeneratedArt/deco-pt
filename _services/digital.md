@@ -14,7 +14,7 @@ Our team is comprised of computer system experts, creative coders, and digital a
 
 Discover the transformative power of our digital display installation services, designed to create captivating and dynamic visual experiences in any space. Our team is well-versed in a variety of display technologies, including LCD, LED, OLED, projection, and plasma displays, enabling us to cater to your specific requirements. From high-quality images and fast motion to vibrant colors and large-scale visuals, we provide the ideal solution for your unique needs.
 
-# Services
+# Scope of services
 
 We pride ourselves on delivering customized digital display installations that exceed expectations. Our services encompass:
 
