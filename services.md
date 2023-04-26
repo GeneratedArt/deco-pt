@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Revolutionizing decorative art through computation
 
-Our services provide top-tier curation of innovative generative art, limitless exhibition possibilities with computational services, fast payments, high-quality printing, fundraising opportunities, seamless installations, and global promotion. We also offer tokenization for ownership and trade.
+Our interior and exterior decoration services include innovative generative art curation, digital displays, computational services, rentals, high-quality printing, and seamless installations. We also offer unique flooring, murals, and window art designs, alongside tokenization for art ownership and trade.
