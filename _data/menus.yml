@@ -14,7 +14,7 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
-  - name: "/es"
+  - name: "/en"
     url: "https://deco.generatedart.com"
     weight: 6
   - name: "/es"
