@@ -15,10 +15,10 @@ main:
     url: "/contact/"
     weight: 5
   - name: "/es"
-    url: "https://deco.es.generatedart.com"
+    url: "https://deco.generatedart.com"
     weight: 6
-  - name: "/pt"
-    url: "https://deco.pt.generatedart.com"
+  - name: "/es"
+    url: "https://deco.es.generatedart.com"
     weight: 7
   - name: "/fr"
     url: "https://deco.fr.generatedart.com"
