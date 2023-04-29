@@ -5,25 +5,25 @@ description: A Propósito
 bodyClass: page-about
 ---
 
-GeneratedArt is an innovative platform dedicated to the realm of generative art. Our driving purpose is to breathe life into the spaces we occupy by harnessing the power of algorithmic art, drawing inspiration from nature and abstract data.
+GeneratedArt é uma plataforma inovadora dedicada ao universo da arte generativa. Nosso principal objetivo é dar vida aos espaços que ocupamos, aproveitando o poder da arte algorítmica, buscando inspiração na natureza e em dados abstratos.
 
 ![About](/images/illustrations/goal.png)
 
-# Our mission
+# Nossa missão
 
-Our mission is to make generative art accessible to all ages and audiences. We believe that this art form has the power to bring the hidden algorithms of life to the forefront in a way that is accessible and meaningful to everyone, or simply make our surroundings express through algorithms of nature. Data-driven generative art can also bring meaning to data by making it perceptible to our senses, revealing aspects that wouldn't otherwise be visible, such as nano-organisms, particles, atoms, frequencies and vibrations, abstract mathematical formulas, and organisms light years away from our planet. 
+Nossa missão é tornar a arte generativa acessível a todas as idades e públicos. Acreditamos que essa forma de arte tem o poder de trazer à tona os algoritmos ocultos da vida de uma maneira acessível e significativa para todos, ou simplesmente fazer com que nosso ambiente se expresse através dos algoritmos da natureza. A arte generativa baseada em dados também pode dar significado aos dados, tornando-os perceptíveis aos nossos sentidos, revelando aspectos que, de outra forma, não seriam visíveis, como nano-organismos, partículas, átomos, frequências e vibrações, fórmulas matemáticas abstratas e organismos a anos-luz de distância do nosso planeta.
 
-Our goal is to provide innovative solutions for artists and creative coders who are interested in exploring the possibilities of generative art, as well as for organizations seeking to bring this art form to their workplaces or communities, or to raise capital for philanthropic causes. We are committed to pushing the boundaries of traditional art and technology, and to creating immersive and interactive experiences that inspire and engage our audiences. By making data interpretable, we can help advance humanity and understand the elements surrounding us to better integrate them.
+Nosso objetivo é fornecer soluções inovadoras para artistas e codificadores criativos interessados em explorar as possibilidades da arte generativa, bem como para organizações que buscam trazer essa forma de arte para seus locais de trabalho ou comunidades, ou para angariar fundos para causas filantrópicas. Estamos comprometidos em expandir os limites da arte e tecnologia tradicionais e em criar experiências imersivas e interativas que inspirem e envolvam nosso público. Ao tornar os dados interpretáveis, podemos ajudar a avançar a humanidade e entender os elementos que nos cercam para melhor integrá-los.
 
-# History
+# História
 
-GeneratedArt is an innovative platform that was first established as a blog in 2016 by Guillaume Lauzier. It was launched as an extension of the VJs Magazine and VJs TV platform with the aim of showcasing generative art works. GeneratedArt has reposted thousands of generative art projects from hundreds of artists across the globe. Since 2022, the platform has been actively working towards organizing exhibitions that are dedicated to generative art. Additionally, GeneratedArt is working on bringing to life a platform to buy generative art in physical locations and online.
+GeneratedArt é uma plataforma inovadora que foi criada pela primeira vez como um blog em 2016 por Guillaume Lauzier. Foi lançada como uma extensão da plataforma VJs Magazine e VJs TV, com o objetivo de apresentar trabalhos de arte generativa. GeneratedArt republicou milhares de projetos de arte generativa de centenas de artistas ao redor do mundo. Desde 2022, a plataforma tem trabalhado ativamente na organização de exposições dedicadas à arte generativa. Além disso, GeneratedArt está trabalhando para dar vida a uma plataforma para comprar arte generativa em locais físicos e online.
 
-Guillaume Lauzier, the founder of GeneratedArt, has extensive experience in event planning, technology, and digital art. He manages the GeneratedArt exhibitions and is always at the forefront of new technologies and innovation.
+Guillaume Lauzier, fundador da GeneratedArt, tem vasta experiência em planejamento de eventos, tecnologia e arte digital. Ele gerencia as exposições da GeneratedArt e está sempre na vanguarda das novas tecnologias e inovações.
 
-Guillaume Lauzier's experience in events includes working for almost two years at the Crochetan Theatre in Switzerland (Jan 2004 - Sep 2005), where he helped on technical sets for concerts. He has also worked for two years at Dorier International Group (Aug 2011 - Jun 2013), mainly on multinational corporate events. As an independent video reporter and producer, he has worked for four years on festivals and different corporate events (Jun 2012 - Jan 2017). As an independent artist, Guillaume has worked on VJ sets, music production and interactive installations. This diverse range of experience has made him an expert in his field and well-equipped to manage GeneratedArt exhibitions.
+A experiência de Guillaume Lauzier em eventos inclui trabalhar por quase dois anos no Teatro Crochetan na Suíça (jan 2004 - set 2005), onde ajudou nos cenários técnicos para concertos. Ele também trabalhou por dois anos na Dorier International Group (ago 2011 - jun 2013), principalmente em eventos corporativos multinacionais. Como repórter e produtor de vídeo independente, trabalhou por quatro anos em festivais e eventos corporativos diversos (jun 2012 - jan 2017). Como artista independente, Guillaume trabalhou em sets de VJ, produção musical e instalações interativas. Essa variedade de experiências tornou-o um especialista em seu campo ebem preparado para gerenciar exposições do GeneratedArt.
 
-# Articles
+# Artigos
 
 [The Power of Generative Art for Philanthropy](https://medium.com/generatedart/the-power-of-generative-art-for-philanthropy-953d655dda08)
 
