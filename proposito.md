@@ -1,7 +1,7 @@
 ---
-title: About
+title: A Propósito
 layout: page
-description: About
+description: A Propósito
 bodyClass: page-about
 ---
 
