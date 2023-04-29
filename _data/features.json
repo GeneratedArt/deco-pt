@@ -1,6 +1,6 @@
 [
   {
-    "title": "Public space",
+    "title": "Espaço público",
     "description": "Generative art in public spaces enhances urban landscapes with dynamic, interactive experiences, fostering community and promoting sustainability. This fusion of technology and artistic expression enriches city culture and connects diverse inhabitants.",
     "image": {
       "url": "images/illustrations/public-space.png",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "Private space",
+    "title": "Espaço privado",
     "description": "Integrating natural aesthetics into private spaces by creating soothing and inspiring surroundings. This combination fosters a sense of balance, encouraging productivity in workspaces and offering peaceful retreats in residential areas.",
     "image": {
       "url": "images/illustrations/art-installation.png",
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Events",
-    "description": "Incorporating interactive and dynamic decorative elements enhances the overall experience by captivating attendees and stimulating engagement. These visually striking components create immersive atmospheres, forging memorable impressions and fostering connections among participants.",
+    "title": "Cventos",
+    "description": "Incorporating interactive and dynamic decorative elements enhances the overall experience by captivating attendees and stimulating engagement.",
     "image": {
       "url": "images/illustrations/events.png",
       "width": 80,
