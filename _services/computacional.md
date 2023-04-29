@@ -59,12 +59,12 @@ O desenvolvimento de algoritmos para arte gerativa envolve projetar e codificar 
 ### Disponibilidade de hardware
 Oferecemos computadores personalizados projetados especificamente para projetos de arte gerativa,
 
-GPU: RTX 3090, RTX 3080, RTX 3070, RTX 3070, RTX 3060, RTX 2060, RTX 1080TI, GTX 1660 Super, GTX 1660 TI, RTX A2000.
-CPU: AMD Threadripper com até 24 núcleos, AMD Ryzen 9 com até 12 núcleos.
-RAM: 2TB máx. em uma única placa-mãe, capacidade total atual 13TB DDR4.
-MOBO: Até 6 slots x16 PCIE.
-DADOS: Espaço SSD/HDD sob demanda, capacidade total atual 154TB SSD.
-NET: 10 Gbit/S ou fibra óptica local.
+- GPU: RTX 3090, RTX 3080, RTX 3070, RTX 3070, RTX 3060, RTX 2060, RTX 1080TI, GTX 1660 Super, GTX 1660 TI, RTX A2000.
+- CPU: AMD Threadripper com até 24 núcleos, AMD Ryzen 9 com até 12 núcleos.
+- RAM: 2TB máx. em uma única placa-mãe, capacidade total atual 13TB DDR4.
+- MOBO: Até 6 slots x16 PCIE.
+- DADOS: Espaço SSD/HDD sob demanda, capacidade total atual 154TB SSD.
+- NET: 10 Gbit/S ou fibra óptica local.
 
 # Artigos
 
