@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contato
 layout: contact
-description: Contact
+description: Contato
 ---
 
 We're delighted to have you join us on our generative art journey! If you have any general inquiries or questions, please don't hesitate to contact us via email or the form below. We're here to help in any way possible.
