@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Servicos
 layout: services
-description: Services
+description: Servicos
 intro_image: "images/illustrations/reception.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
