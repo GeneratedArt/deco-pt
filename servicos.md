@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Revolutionizing decorative art through computation
+# Revolutionando a arte decorativa através da computação
 
-Our interior and exterior decoration services include innovative generative art curation, digital displays, computational services, rentals, high-quality printing, and seamless installations. We also offer unique flooring, murals, and window art designs, alongside tokenization for art ownership and trade.
+Nossos serviços de decoração interior e exterior incluem curadoria inovadora de arte generativa, exibições digitais, serviços computacionais, aluguéis, impressão de alta qualidade e instalações perfeitas. Também oferecemos designs exclusivos de pisos, murais e arte em janelas, além da tokenização para a posse e comércio de arte.
